@@ -1,8 +1,5 @@
 # University-Management-System
 Database design and SQL queries for University Management System
-## Entity Relationship (ER) Diagram
-
-![ER Diagram](ER%20Diagram.png)
 
 <h2 align="center">Entity Relationship (ER) Diagram</h2>
 <p align="center">
